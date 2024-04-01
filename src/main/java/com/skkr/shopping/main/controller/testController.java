@@ -1,4 +1,4 @@
-package controller;
+package com.skkr.shopping.main.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
