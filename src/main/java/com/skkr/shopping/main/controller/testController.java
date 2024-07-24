@@ -9,6 +9,7 @@ public class testController {
     @RequestMapping("/")
     public String test(){
         System.out.println("text 메소드");
+        System.out.println("바보바보");
         return "index";
     }
 
