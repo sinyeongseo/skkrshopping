@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class testController {
     @RequestMapping("/")
     public String test(){
+        System.out.println("text 메소드");
         return "index";
     }
 
