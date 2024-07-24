@@ -14,4 +14,9 @@ public class testController {
 
     @RequestMapping("/login")
     public String login(){ return "login";}
+
+    public void StashTest()
+    {
+        //스태시 테스트
+    }
 }
